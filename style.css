@@ -107,11 +107,14 @@ h2 {
 #brands ul {
     padding: 20px 50px;
     list-style: none;
+    text-align: center;
 }
 
 .brand-logo img,
 .social-links img {
-    height: 25px;    
+    height: 30px;
+    padding-right: 10px;    
+    margin-bottom: 20px;
 }
 
 #contact .container {
